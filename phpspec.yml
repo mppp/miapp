@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: miApp
+        psr4_prefix: miApp
+        src_path: app

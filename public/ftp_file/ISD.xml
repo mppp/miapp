@@ -1,0 +1,2209 @@
+<?xml version="1.0"?>
+<ItemCountTransaction>
+	<ItemCountHeader>
+		<StoreName>El Focus</StoreName>
+		<StoreID></StoreID>
+		<AlternateStoreID></AlternateStoreID>
+		<BusinessDate>11/05/2014</BusinessDate>
+	</ItemCountHeader>
+	<ItemCountDetail>
+		<ID></ID>
+		<InventoryID></InventoryID>
+		<Vendor>Vendor 1</Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name></Name>
+		<QtySold>2</QtySold>
+		<Sales>19.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID></ID>
+		<InventoryID></InventoryID>
+		<Vendor>Vendor 1</Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name></Name>
+		<QtySold>1</QtySold>
+		<Sales>0.45</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID></ID>
+		<InventoryID></InventoryID>
+		<Vendor>Vendor 1</Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name></Name>
+		<QtySold>1</QtySold>
+		<Sales>0.55</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>EL QUESO</ID>
+		<InventoryID>1000434</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>EL QUESO</Name>
+		<QtySold>1</QtySold>
+		<Sales>2.75</Sales>
+		<Price1 value="8.00" />
+		<Price2 value="8.00" />
+		<Price3 value="8.00" />
+		<Price4 value="8.00" />
+		<Price5 value="8.00" />
+		<Price6 value="8.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>QUESO FUNDIDO</ID>
+		<InventoryID>1000944</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>QUESO FUNDIDO</Name>
+		<QtySold>3</QtySold>
+		<Sales>26.85</Sales>
+		<Price1 value="8.95" />
+		<Price2 value="8.95" />
+		<Price3 value="8.95" />
+		<Price4 value="8.95" />
+		<Price5 value="8.95" />
+		<Price6 value="8.95" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>FLOUR TORTILLA</ID>
+		<InventoryID>1000472</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>FLOUR TORTILLA</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>FAJITA QUESADILLA</ID>
+		<InventoryID>1000941</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>QUESADILLA FAJITA </Name>
+		<QtySold>2</QtySold>
+		<Sales>16.90</Sales>
+		<Price1 value="8.45" />
+		<Price2 value="8.45" />
+		<Price3 value="8.45" />
+		<Price4 value="8.45" />
+		<Price5 value="8.45" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>QUESADILLA ESPECIAL</ID>
+		<InventoryID>1000940</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>QUESADILLA ESPECIAL</Name>
+		<QtySold>1</QtySold>
+		<Sales>10.45</Sales>
+		<Price1 value="10.45" />
+		<Price2 value="10.45" />
+		<Price3 value="10.45" />
+		<Price4 value="10.45" />
+		<Price5 value="0.01" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHILE VERDE CHOICE</ID>
+		<InventoryID>1000308</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CHILE VERDE</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHILE COLORADO CHOICE</ID>
+		<InventoryID>1000302</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CHILE COLORADO</Name>
+		<QtySold>2</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>HALF NO MEAT</ID>
+		<InventoryID>1000591</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>HALF NO MEAT</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CEVICHE</ID>
+		<InventoryID>1000259</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CEVICHE</Name>
+		<QtySold>4</QtySold>
+		<Sales>35.80</Sales>
+		<Price1 value="8.95" />
+		<Price2 value="8.95" />
+		<Price3 value="8.95" />
+		<Price4 value="8.95" />
+		<Price5 value="8.95" />
+		<Price6 value="8.95" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>ASADA FRIES</ID>
+		<InventoryID>1000235</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CARNE ASADA FRIES</Name>
+		<QtySold>2</QtySold>
+		<Sales>21.90</Sales>
+		<Price1 value="10.95" />
+		<Price2 value="10.95" />
+		<Price3 value="10.95" />
+		<Price4 value="10.95" />
+		<Price5 value="10.95" />
+		<Price6 value="10.95" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>NACHOS</ID>
+		<InventoryID>1000797</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>NACHOS</Name>
+		<QtySold>3</QtySold>
+		<Sales>28.35</Sales>
+		<Price1 value="9.45" />
+		<Price2 value="9.45" />
+		<Price3 value="9.45" />
+		<Price4 value="9.45" />
+		<Price5 value="9.45" />
+		<Price6 value="9.45" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHEESE QUESADILLA</ID>
+		<InventoryID>1000939</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>QUESADILLA CHEESE</Name>
+		<QtySold>2</QtySold>
+		<Sales>12.90</Sales>
+		<Price1 value="6.45" />
+		<Price2 value="6.45" />
+		<Price3 value="6.45" />
+		<Price4 value="6.45" />
+		<Price5 value="0.01" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GUACAMOLE GRANDE</ID>
+		<InventoryID>1001375</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GUACAMOLE GRANDE</Name>
+		<QtySold>1</QtySold>
+		<Sales>8.95</Sales>
+		<Price1 value="8.95" />
+		<Price2 value="8.95" />
+		<Price3 value="8.95" />
+		<Price4 value="8.95" />
+		<Price5 value="8.95" />
+		<Price6 value="8.95" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHIPS y CHEESE</ID>
+		<InventoryID>1000327</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CHIPS y CHEESE</Name>
+		<QtySold>1</QtySold>
+		<Sales>8.45</Sales>
+		<Price1 value="8.45" />
+		<Price2 value="8.45" />
+		<Price3 value="8.45" />
+		<Price4 value="8.45" />
+		<Price5 value="8.45" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MI QUESO</ID>
+		<InventoryID>1000765</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MI QUESO</Name>
+		<QtySold>2</QtySold>
+		<Sales>6.95</Sales>
+		<Price1 value="6.95" />
+		<Price2 value="6.95" />
+		<Price3 value="6.95" />
+		<Price4 value="6.95" />
+		<Price5 value="6.95" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MI CASA TRIO</ID>
+		<InventoryID>1001392</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MI CASA TRIO</Name>
+		<QtySold>4</QtySold>
+		<Sales>39.80</Sales>
+		<Price1 value="9.95" />
+		<Price2 value="9.95" />
+		<Price3 value="9.95" />
+		<Price4 value="9.95" />
+		<Price5 value="9.95" />
+		<Price6 value="9.95" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GUACAMOLE SIDE</ID>
+		<InventoryID>1000571</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GUACAMOLE SIDE</Name>
+		<QtySold>7</QtySold>
+		<Sales>34.65</Sales>
+		<Price1 value="4.95" />
+		<Price2 value="4.95" />
+		<Price3 value="4.95" />
+		<Price4 value="4.95" />
+		<Price5 value="4.95" />
+		<Price6 value="3.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>AVOCADO FRIES</ID>
+		<InventoryID>1001388</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>AVOCADO FRIES</Name>
+		<QtySold>2</QtySold>
+		<Sales>15.90</Sales>
+		<Price1 value="7.95" />
+		<Price2 value="7.95" />
+		<Price3 value="7.95" />
+		<Price4 value="7.95" />
+		<Price5 value="7.95" />
+		<Price6 value="7.95" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>BLEU CHEESE</ID>
+		<InventoryID>1000140</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>BLEU CHEESE</Name>
+		<QtySold>2</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>NO TORTILLA</ID>
+		<InventoryID>1000817</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>NO TORTILLA</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>FISH TACO 8/18/14</ID>
+		<InventoryID>1001390</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>FISH TACO </Name>
+		<QtySold>2</QtySold>
+		<Sales>5.45</Sales>
+		<Price1 value="5.45" />
+		<Price2 value="5.45" />
+		<Price3 value="5.45" />
+		<Price4 value="5.45" />
+		<Price5 value="5.45" />
+		<Price6 value="5.45" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>POLLO ASADO TACO</ID>
+		<InventoryID>1000922</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>POLLO ASADO TACO</Name>
+		<QtySold>4</QtySold>
+		<Sales>21.80</Sales>
+		<Price1 value="5.45" />
+		<Price2 value="5.45" />
+		<Price3 value="5.45" />
+		<Price4 value="5.45" />
+		<Price5 value="5.45" />
+		<Price6 value="5.45" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MAHI TACO</ID>
+		<InventoryID>1000727</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MAHI TACO</Name>
+		<QtySold>2</QtySold>
+		<Sales>12.90</Sales>
+		<Price1 value="6.45" />
+		<Price2 value="6.45" />
+		<Price3 value="6.45" />
+		<Price4 value="6.45" />
+		<Price5 value="6.45" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHILIE VERDE TACO</ID>
+		<InventoryID>1000312</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CHILE VERDE TACO</Name>
+		<QtySold>3</QtySold>
+		<Sales>10.90</Sales>
+		<Price1 value="5.45" />
+		<Price2 value="5.45" />
+		<Price3 value="5.45" />
+		<Price4 value="5.45" />
+		<Price5 value="5.45" />
+		<Price6 value="3.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>BEAN TACO</ID>
+		<InventoryID>1000109</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>BEAN TACO</Name>
+		<QtySold>1</QtySold>
+		<Sales>4.45</Sales>
+		<Price1 value="4.45" />
+		<Price2 value="4.45" />
+		<Price3 value="4.45" />
+		<Price4 value="4.45" />
+		<Price5 value="4.45" />
+		<Price6 value="3.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CARNE ASADA TACO</ID>
+		<InventoryID>1000237</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CARNE ASADA TACO</Name>
+		<QtySold>4</QtySold>
+		<Sales>5.45</Sales>
+		<Price1 value="5.45" />
+		<Price2 value="5.45" />
+		<Price3 value="5.45" />
+		<Price4 value="5.45" />
+		<Price5 value="5.45" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>TAMALE PORK</ID>
+		<InventoryID>1001122</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>TAMALE PORK</Name>
+		<QtySold>1</QtySold>
+		<Sales>5.45</Sales>
+		<Price1 value="5.45" />
+		<Price2 value="5.45" />
+		<Price3 value="5.45" />
+		<Price4 value="5.45" />
+		<Price5 value="5.45" />
+		<Price6 value="3.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>EL JIMADOR SILVER</ID>
+		<InventoryID>1000433</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>EL JIMADOR SILVER</Name>
+		<QtySold>3</QtySold>
+		<Sales>16.50</Sales>
+		<Price1 value="5.50" />
+		<Price2 value="5.50" />
+		<Price3 value="5.50" />
+		<Price4 value="5.50" />
+		<Price5 value="5.50" />
+		<Price6 value="5.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CUERVO CINGE</ID>
+		<InventoryID>1001327</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CUERVO CINGE</Name>
+		<QtySold>1</QtySold>
+		<Sales>6.00</Sales>
+		<Price1 value="6.00" />
+		<Price2 value="6.00" />
+		<Price3 value="6.00" />
+		<Price4 value="6.00" />
+		<Price5 value="6.00" />
+		<Price6 value="6.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>PARTIDA SKINNY</ID>
+		<InventoryID>1000860</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>PARTIDA SKINNY</Name>
+		<QtySold>1</QtySold>
+		<Sales>9.00</Sales>
+		<Price1 value="9.00" />
+		<Price2 value="9.00" />
+		<Price3 value="9.00" />
+		<Price4 value="9.00" />
+		<Price5 value="9.00" />
+		<Price6 value="9.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="4.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MILAGRO ANEJO</ID>
+		<InventoryID>1000770</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MILAGRO ANEJO</Name>
+		<QtySold>1</QtySold>
+		<Sales>9.00</Sales>
+		<Price1 value="9.00" />
+		<Price2 value="9.00" />
+		<Price3 value="9.00" />
+		<Price4 value="9.00" />
+		<Price5 value="9.00" />
+		<Price6 value="9.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>PELIGROSO ANEJO</ID>
+		<InventoryID>1001330</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>PELIGROSO ANEJO</Name>
+		<QtySold>4</QtySold>
+		<Sales>44.00</Sales>
+		<Price1 value="11.00" />
+		<Price2 value="11.00" />
+		<Price3 value="11.00" />
+		<Price4 value="11.00" />
+		<Price5 value="11.00" />
+		<Price6 value="11.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="5.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>HERRADURA ANEJO</ID>
+		<InventoryID>1000608</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>HERRADURA ANEJO</Name>
+		<QtySold>1</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="10.00" />
+		<Price2 value="10.00" />
+		<Price3 value="10.00" />
+		<Price4 value="10.00" />
+		<Price5 value="10.00" />
+		<Price6 value="10.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="4.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CENTENARIO ANEJO</ID>
+		<InventoryID>1000255</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CENTENARIO ANEJO</Name>
+		<QtySold>1</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="10.00" />
+		<Price2 value="10.00" />
+		<Price3 value="10.00" />
+		<Price4 value="10.00" />
+		<Price5 value="10.00" />
+		<Price6 value="10.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="4.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CAZADORES ANEJO</ID>
+		<InventoryID>1000249</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CAZADORES ANEJO</Name>
+		<QtySold>1</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="10.00" />
+		<Price2 value="10.00" />
+		<Price3 value="10.00" />
+		<Price4 value="10.00" />
+		<Price5 value="10.00" />
+		<Price6 value="10.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="4.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>EL JIMADOR ANEJO</ID>
+		<InventoryID>1000430</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>EL JIMADOR ANEJO</Name>
+		<QtySold>4</QtySold>
+		<Sales>32.00</Sales>
+		<Price1 value="8.00" />
+		<Price2 value="8.00" />
+		<Price3 value="8.00" />
+		<Price4 value="8.00" />
+		<Price5 value="8.00" />
+		<Price6 value="8.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="2.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>DON JULIO ANEJO</ID>
+		<InventoryID>1000406</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>DON JULIO ANEJO</Name>
+		<QtySold>5</QtySold>
+		<Sales>55.00</Sales>
+		<Price1 value="11.00" />
+		<Price2 value="11.00" />
+		<Price3 value="11.00" />
+		<Price4 value="11.00" />
+		<Price5 value="11.00" />
+		<Price6 value="11.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="5.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CASA NOBLE ANEJO</ID>
+		<InventoryID>1000245</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CASA NOBLE ANEJO</Name>
+		<QtySold>2</QtySold>
+		<Sales>22.00</Sales>
+		<Price1 value="11.00" />
+		<Price2 value="11.00" />
+		<Price3 value="11.00" />
+		<Price4 value="11.00" />
+		<Price5 value="11.00" />
+		<Price6 value="11.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="5.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CORRALEJO ANEJO</ID>
+		<InventoryID>1000364</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CORRALEJO ANEJO</Name>
+		<QtySold>3</QtySold>
+		<Sales>33.00</Sales>
+		<Price1 value="11.00" />
+		<Price2 value="11.00" />
+		<Price3 value="11.00" />
+		<Price4 value="11.00" />
+		<Price5 value="11.00" />
+		<Price6 value="11.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="5.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>PARTIDA ANEJO</ID>
+		<InventoryID>1000855</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>PARTIDA ANEJO</Name>
+		<QtySold>1</QtySold>
+		<Sales>11.00</Sales>
+		<Price1 value="11.00" />
+		<Price2 value="11.00" />
+		<Price3 value="11.00" />
+		<Price4 value="11.00" />
+		<Price5 value="11.00" />
+		<Price6 value="11.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="5.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>PATRON ANEJO</ID>
+		<InventoryID>1000863</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>PATRON ANEJO</Name>
+		<QtySold>1</QtySold>
+		<Sales>11.00</Sales>
+		<Price1 value="11.00" />
+		<Price2 value="11.00" />
+		<Price3 value="11.00" />
+		<Price4 value="11.00" />
+		<Price5 value="11.00" />
+		<Price6 value="11.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="5.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>PATRON ROCHA ANEJO</ID>
+		<InventoryID>1001397</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>PATRON ROCHA ANEJO</Name>
+		<QtySold>1</QtySold>
+		<Sales>18.00</Sales>
+		<Price1 value="18.00" />
+		<Price2 value="18.00" />
+		<Price3 value="18.00" />
+		<Price4 value="18.00" />
+		<Price5 value="18.00" />
+		<Price6 value="18.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="12.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GIN</ID>
+		<InventoryID>1000494</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GIN</Name>
+		<QtySold>3</QtySold>
+		<Sales>16.50</Sales>
+		<Price1 value="5.50" />
+		<Price2 value="5.50" />
+		<Price3 value="5.50" />
+		<Price4 value="5.50" />
+		<Price5 value="5.50" />
+		<Price6 value="5.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>BEEFEATERS</ID>
+		<InventoryID>1000125</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>BEEFEATERS</Name>
+		<QtySold>2</QtySold>
+		<Sales>12.00</Sales>
+		<Price1 value="6.00" />
+		<Price2 value="6.00" />
+		<Price3 value="6.00" />
+		<Price4 value="6.00" />
+		<Price5 value="6.00" />
+		<Price6 value="6.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>BOMBAY</ID>
+		<InventoryID>1000151</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>BOMBAY</Name>
+		<QtySold>2</QtySold>
+		<Sales>13.00</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>BOMBAY SAPPHIRE</ID>
+		<InventoryID>1000152</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>BOMBAY SAPPHIRE</Name>
+		<QtySold>2</QtySold>
+		<Sales>15.00</Sales>
+		<Price1 value="7.50" />
+		<Price2 value="7.50" />
+		<Price3 value="7.50" />
+		<Price4 value="7.50" />
+		<Price5 value="7.50" />
+		<Price6 value="7.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="2.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>TANQUERY</ID>
+		<InventoryID>1001124</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>TANQUERY</Name>
+		<QtySold>1</QtySold>
+		<Sales>7.50</Sales>
+		<Price1 value="7.50" />
+		<Price2 value="7.50" />
+		<Price3 value="7.50" />
+		<Price4 value="7.50" />
+		<Price5 value="7.50" />
+		<Price6 value="7.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="2.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHIVAS REGAL</ID>
+		<InventoryID>1000329</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CHIVAS REGAL</Name>
+		<QtySold>3</QtySold>
+		<Sales>22.50</Sales>
+		<Price1 value="7.50" />
+		<Price2 value="7.50" />
+		<Price3 value="7.50" />
+		<Price4 value="7.50" />
+		<Price5 value="7.50" />
+		<Price6 value="7.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="2.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>DEWARS</ID>
+		<InventoryID>1000395</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>DEWARS</Name>
+		<QtySold>3</QtySold>
+		<Sales>22.50</Sales>
+		<Price1 value="7.50" />
+		<Price2 value="7.50" />
+		<Price3 value="7.50" />
+		<Price4 value="7.50" />
+		<Price5 value="7.50" />
+		<Price6 value="7.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="2.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>JW BLACK</ID>
+		<InventoryID>1000674</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>JW BLACK</Name>
+		<QtySold>3</QtySold>
+		<Sales>25.50</Sales>
+		<Price1 value="8.50" />
+		<Price2 value="8.50" />
+		<Price3 value="8.50" />
+		<Price4 value="8.50" />
+		<Price5 value="8.50" />
+		<Price6 value="8.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>JIM BEAM</ID>
+		<InventoryID>1000672</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>JIM BEAM</Name>
+		<QtySold>2</QtySold>
+		<Sales>13.00</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CANADIAN CLUB</ID>
+		<InventoryID>1000221</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CANADIAN CLUB</Name>
+		<QtySold>2</QtySold>
+		<Sales>13.00</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CROWN ROYAL</ID>
+		<InventoryID>1000380</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CROWN ROYAL</Name>
+		<QtySold>3</QtySold>
+		<Sales>22.50</Sales>
+		<Price1 value="7.50" />
+		<Price2 value="7.50" />
+		<Price3 value="7.50" />
+		<Price4 value="7.50" />
+		<Price5 value="7.50" />
+		<Price6 value="7.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="2.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>JACK DANIELS</ID>
+		<InventoryID>1000657</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>JACK DANIELS</Name>
+		<QtySold>1</QtySold>
+		<Sales>6.50</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>SEAGRAMS 7</ID>
+		<InventoryID>1001012</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>SEAGRAMS 7</Name>
+		<QtySold>1</QtySold>
+		<Sales>6.50</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>SEAGRAMS VO</ID>
+		<InventoryID>1001014</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>SEAGRAMS VO</Name>
+		<QtySold>2</QtySold>
+		<Sales>13.00</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>JAMESON</ID>
+		<InventoryID>1000669</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>JAMESON</Name>
+		<QtySold>2</QtySold>
+		<Sales>13.00</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>WILD TURKEY</ID>
+		<InventoryID>1001226</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>WILD TURKEY</Name>
+		<QtySold>2</QtySold>
+		<Sales>13.00</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>FIREBALL</ID>
+		<InventoryID>1001260</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>FIREBALL</Name>
+		<QtySold>2</QtySold>
+		<Sales>13.00</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>PEACH SCHNAPPS</ID>
+		<InventoryID>1000879</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>PEACH SCHNAPPS</Name>
+		<QtySold>1</QtySold>
+		<Sales>4.00</Sales>
+		<Price1 value="4.00" />
+		<Price2 value="4.00" />
+		<Price3 value="4.00" />
+		<Price4 value="4.00" />
+		<Price5 value="4.00" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>IRISH CREAM</ID>
+		<InventoryID>1000654</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>IRISH CREAM</Name>
+		<QtySold>1</QtySold>
+		<Sales>5.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="5.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GRAND MARNIER</ID>
+		<InventoryID>1000547</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GRAND MARNIER</Name>
+		<QtySold>1</QtySold>
+		<Sales>7.00</Sales>
+		<Price1 value="7.00" />
+		<Price2 value="7.00" />
+		<Price3 value="7.00" />
+		<Price4 value="7.00" />
+		<Price5 value="7.00" />
+		<Price6 value="7.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="2.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>DRAMBUIE</ID>
+		<InventoryID>1000421</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>DRAMBUIE</Name>
+		<QtySold>2</QtySold>
+		<Sales>14.00</Sales>
+		<Price1 value="7.00" />
+		<Price2 value="7.00" />
+		<Price3 value="7.00" />
+		<Price4 value="7.00" />
+		<Price5 value="7.00" />
+		<Price6 value="7.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>BLACKBERRY BRANDY</ID>
+		<InventoryID>1000137</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>BLACKBERRY BRANDY</Name>
+		<QtySold>1</QtySold>
+		<Sales>4.00</Sales>
+		<Price1 value="4.00" />
+		<Price2 value="4.00" />
+		<Price3 value="4.00" />
+		<Price4 value="4.00" />
+		<Price5 value="4.00" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>BANANA LIQUER</ID>
+		<InventoryID>1000103</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>BANANA LIQUER</Name>
+		<QtySold>2</QtySold>
+		<Sales>8.00</Sales>
+		<Price1 value="4.00" />
+		<Price2 value="4.00" />
+		<Price3 value="4.00" />
+		<Price4 value="4.00" />
+		<Price5 value="4.00" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>AMARETTO</ID>
+		<InventoryID>1000078</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>AMARETTO</Name>
+		<QtySold>1</QtySold>
+		<Sales>4.00</Sales>
+		<Price1 value="4.00" />
+		<Price2 value="4.00" />
+		<Price3 value="4.00" />
+		<Price4 value="4.00" />
+		<Price5 value="4.00" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CREME M GREEN</ID>
+		<InventoryID>1000378</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CREME M GREEN</Name>
+		<QtySold>2</QtySold>
+		<Sales>8.00</Sales>
+		<Price1 value="4.00" />
+		<Price2 value="4.00" />
+		<Price3 value="4.00" />
+		<Price4 value="4.00" />
+		<Price5 value="4.00" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>DISARONNO</ID>
+		<InventoryID>1000404</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>DISARONNO</Name>
+		<QtySold>1</QtySold>
+		<Sales>6.00</Sales>
+		<Price1 value="6.00" />
+		<Price2 value="6.00" />
+		<Price3 value="6.00" />
+		<Price4 value="6.00" />
+		<Price5 value="6.00" />
+		<Price6 value="6.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.25" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GRAND CHEV MOD</ID>
+		<InventoryID>1000865</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GRAND CHEV</Name>
+		<QtySold>2</QtySold>
+		<Sales>8.00</Sales>
+		<Price1 value="4.00" />
+		<Price2 value="4.00" />
+		<Price3 value="4.00" />
+		<Price4 value="4.00" />
+		<Price5 value="4.00" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>RUMCHATA</ID>
+		<InventoryID>110000</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>RUMCHATA</Name>
+		<QtySold>2</QtySold>
+		<Sales>12.00</Sales>
+		<Price1 value="6.00" />
+		<Price2 value="6.00" />
+		<Price3 value="6.00" />
+		<Price4 value="6.00" />
+		<Price5 value="6.00" />
+		<Price6 value="6.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>JAGERMEISTER</ID>
+		<InventoryID>1000660</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>JAGERMEISTER</Name>
+		<QtySold>2</QtySold>
+		<Sales>13.00</Sales>
+		<Price1 value="6.50" />
+		<Price2 value="6.50" />
+		<Price3 value="6.50" />
+		<Price4 value="6.50" />
+		<Price5 value="6.50" />
+		<Price6 value="6.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.50" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MICHELOB</ID>
+		<InventoryID>MICHELOB</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MICHELOB</Name>
+		<QtySold>1</QtySold>
+		<Sales>5.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="3.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MICHELOB LIGHT</ID>
+		<InventoryID>MICHELOB LIGHT</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MICHELOB LIGHT</Name>
+		<QtySold>2</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="3.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>COORS 1</ID>
+		<InventoryID>COORS</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>COORS</Name>
+		<QtySold>1</QtySold>
+		<Sales>5.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="3.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CARTA BLANCA</ID>
+		<InventoryID>CARTA BLANCA</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CARTA BLANCA</Name>
+		<QtySold>1</QtySold>
+		<Sales>5.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="3.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CORONA</ID>
+		<InventoryID>1000362</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CORONA</Name>
+		<QtySold>1</QtySold>
+		<Sales>5.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="3.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MICHELOB ULTRA</ID>
+		<InventoryID>MICHELOB ULTRA</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MICHELOB ULTRA</Name>
+		<QtySold>2</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="3.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CORONA LT</ID>
+		<InventoryID>1000363</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CORONA LT</Name>
+		<QtySold>2</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="3.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MILLER LITE</ID>
+		<InventoryID>1000779</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MILLER LITE</Name>
+		<QtySold>1</QtySold>
+		<Sales>4.00</Sales>
+		<Price1 value="4.00" />
+		<Price2 value="3.00" />
+		<Price3 value="4.00" />
+		<Price4 value="4.00" />
+		<Price5 value="4.00" />
+		<Price6 value="4.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="3.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>SCOTCH</ID>
+		<InventoryID>1001005</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>SCOTCH</Name>
+		<QtySold>2</QtySold>
+		<Sales>11.00</Sales>
+		<Price1 value="5.50" />
+		<Price2 value="5.50" />
+		<Price3 value="5.50" />
+		<Price4 value="5.50" />
+		<Price5 value="5.50" />
+		<Price6 value="5.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>RUM</ID>
+		<InventoryID>1000973</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>WELL RUM</Name>
+		<QtySold>1</QtySold>
+		<Sales>5.50</Sales>
+		<Price1 value="5.50" />
+		<Price2 value="5.50" />
+		<Price3 value="5.50" />
+		<Price4 value="5.50" />
+		<Price5 value="5.50" />
+		<Price6 value="5.50" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>1/2 CORN 1/2 FLOUR</ID>
+		<InventoryID>1000359</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CORN y FLOUR TORTILLA</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>LRG BEANS</ID>
+		<InventoryID>1000709</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>LRG BEANS</Name>
+		<QtySold>1</QtySold>
+		<Sales>8.00</Sales>
+		<Price1 value="8.00" />
+		<Price2 value="8.00" />
+		<Price3 value="8.00" />
+		<Price4 value="8.00" />
+		<Price5 value="8.00" />
+		<Price6 value="8.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>LRG RICE</ID>
+		<InventoryID>1000710</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>LRG RICE</Name>
+		<QtySold>1</QtySold>
+		<Sales>8.00</Sales>
+		<Price1 value="8.00" />
+		<Price2 value="8.00" />
+		<Price3 value="8.00" />
+		<Price4 value="8.00" />
+		<Price5 value="8.00" />
+		<Price6 value="8.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MI CASA GLASS</ID>
+		<InventoryID>1000762</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MI CASA GLASS</Name>
+		<QtySold>1</QtySold>
+		<Sales>5.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="5.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>FAMILY FIESTA PACK 3</ID>
+		<InventoryID>1001337</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>FAMILY FIESTA PACK 3</Name>
+		<QtySold>1</QtySold>
+		<Sales>49.95</Sales>
+		<Price1 value="49.95" />
+		<Price2 value="49.95" />
+		<Price3 value="49.95" />
+		<Price4 value="49.95" />
+		<Price5 value="49.95" />
+		<Price6 value="49.95" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHICKEN ENCHILADA</ID>
+		<InventoryID>1000290</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CHICKEN ENCHILADA</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="6.45" />
+		<Price2 value="6.45" />
+		<Price3 value="6.45" />
+		<Price4 value="6.45" />
+		<Price5 value="6.45" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CARNE ASADA ENCHILADA</ID>
+		<InventoryID>1000234</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CARNE ASADA ENCHILADA</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="6.45" />
+		<Price2 value="6.45" />
+		<Price3 value="6.45" />
+		<Price4 value="6.45" />
+		<Price5 value="6.45" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="1.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>ENCHILADA SAUCE</ID>
+		<InventoryID>1000439</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>ENCHILADA SAUCE</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="1.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHICKEN TACO</ID>
+		<InventoryID>1000295</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CHICKEN TACO</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="5.45" />
+		<Price2 value="5.45" />
+		<Price3 value="5.45" />
+		<Price4 value="5.45" />
+		<Price5 value="5.45" />
+		<Price6 value="3.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>LRG WHOLE BEANS</ID>
+		<InventoryID>1001339</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>LRG WHOLE BEANS</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="8.00" />
+		<Price2 value="8.00" />
+		<Price3 value="8.00" />
+		<Price4 value="8.00" />
+		<Price5 value="8.00" />
+		<Price6 value="8.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>QRT CORN SALAD</ID>
+		<InventoryID>1001341</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>QRT CORN SALAD</Name>
+		<QtySold>2</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="9.00" />
+		<Price2 value="9.00" />
+		<Price3 value="9.00" />
+		<Price4 value="9.00" />
+		<Price5 value="0.01" />
+		<Price6 value="9.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>QRT FAJITA VEGGIES</ID>
+		<InventoryID>1001343</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>QRT FAJITA VEGGIES</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="7.00" />
+		<Price2 value="7.00" />
+		<Price3 value="7.00" />
+		<Price4 value="7.00" />
+		<Price5 value="7.00" />
+		<Price6 value="7.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>SALSA SNTA MARG</ID>
+		<InventoryID>1000983</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>SALSA SNTA MARG</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>SALSA VERDE</ID>
+		<InventoryID>1000986</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>SALSA VERDE</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>SML TOSTADA SHELL</ID>
+		<InventoryID>1001063</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>SML TOSTADA SHELL</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.75</Sales>
+		<Price1 value="0.75" />
+		<Price2 value="0.75" />
+		<Price3 value="0.75" />
+		<Price4 value="0.75" />
+		<Price5 value="0.75" />
+		<Price6 value="0.75" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>MIMOSA</ID>
+		<InventoryID>1000781</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>MIMOSA</Name>
+		<QtySold>4</QtySold>
+		<Sales>28.00</Sales>
+		<Price1 value="7.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GLS WHITE ZIN</ID>
+		<InventoryID>1000540</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GLS WHITE ZIN</Name>
+		<QtySold>2</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="5.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="4.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GLS CHARDONNAY</ID>
+		<InventoryID>1000510</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GLS CHARDONNAY</Name>
+		<QtySold>3</QtySold>
+		<Sales>15.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="5.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="4.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GLS CABERNET</ID>
+		<InventoryID>1000508</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GLS CABERNET</Name>
+		<QtySold>3</QtySold>
+		<Sales>15.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="5.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="4.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GLS MERLOT</ID>
+		<InventoryID>1000527</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GLS MERLOT</Name>
+		<QtySold>2</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="5.00" />
+		<Price2 value="5.00" />
+		<Price3 value="5.00" />
+		<Price4 value="5.00" />
+		<Price5 value="5.00" />
+		<Price6 value="5.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="4.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>CHAMPAGNE</ID>
+		<InventoryID>1000263</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>CHAMPAGNE SPLIT</Name>
+		<QtySold>3</QtySold>
+		<Sales>18.00</Sales>
+		<Price1 value="6.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>BTL ROD STRONG</ID>
+		<InventoryID>1000188</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>BTL ROD STRONG</Name>
+		<QtySold>1</QtySold>
+		<Sales>35.00</Sales>
+		<Price1 value="35.00" />
+		<Price2 value="35.00" />
+		<Price3 value="35.00" />
+		<Price4 value="35.00" />
+		<Price5 value="35.00" />
+		<Price6 value="35.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>(10) GLASSES</ID>
+		<InventoryID>1000030</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>(10) GLASSES</Name>
+		<QtySold>1</QtySold>
+		<Sales>0.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GLS RUFFINO LUMINA</ID>
+		<InventoryID>1000533</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GLS RUFFINO LUMINA</Name>
+		<QtySold>1</QtySold>
+		<Sales>8.00</Sales>
+		<Price1 value="8.00" />
+		<Price2 value="8.00" />
+		<Price3 value="8.00" />
+		<Price4 value="8.00" />
+		<Price5 value="8.00" />
+		<Price6 value="8.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GLS ROD STRONG</ID>
+		<InventoryID>1000532</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GLS ROD STRONG</Name>
+		<QtySold>1</QtySold>
+		<Sales>10.00</Sales>
+		<Price1 value="10.00" />
+		<Price2 value="10.00" />
+		<Price3 value="10.00" />
+		<Price4 value="10.00" />
+		<Price5 value="10.00" />
+		<Price6 value="10.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID>GLS BRNG CHARD</ID>
+		<InventoryID>1000504</InventoryID>
+		<Vendor></Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name>GLS BRNG CHARD</Name>
+		<QtySold>1</QtySold>
+		<Sales>7.00</Sales>
+		<Price1 value="7.00" />
+		<Price2 value="7.00" />
+		<Price3 value="7.00" />
+		<Price4 value="7.00" />
+		<Price5 value="7.00" />
+		<Price6 value="7.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="5.00" />
+	</ItemCountDetail>
+</ItemCountTransaction>

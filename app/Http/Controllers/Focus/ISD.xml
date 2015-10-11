@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<ItemCountTransaction>
+	<ItemCountHeader>
+		<StoreName>El Focus</StoreName>
+		<StoreID></StoreID>
+		<AlternateStoreID></AlternateStoreID>
+		<BusinessDate>11/05/2014</BusinessDate>
+	</ItemCountHeader>
+	<ItemCountDetail>
+		<ID></ID>
+		<InventoryID></InventoryID>
+		<Vendor>Vendor 1</Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name></Name>
+		<QtySold>2</QtySold>
+		<Sales>19.00</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+	<ItemCountDetail>
+		<ID></ID>
+		<InventoryID></InventoryID>
+		<Vendor>Vendor 1</Vendor>
+		<VendorID></VendorID>
+		<VendorItemID></VendorItemID>
+		<Name></Name>
+		<QtySold>1</QtySold>
+		<Sales>0.45</Sales>
+		<Price1 value="0.00" />
+		<Price2 value="0.00" />
+		<Price3 value="0.00" />
+		<Price4 value="0.00" />
+		<Price5 value="0.00" />
+		<Price6 value="0.00" />
+		<SubPrice value="0.00" />
+		<ExtraPrice value="0.00" />
+		<NoPrice value="0.00" />
+		<ModPrice value="0.00" />
+	</ItemCountDetail>
+</ItemCountTransaction>
